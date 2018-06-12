@@ -52,12 +52,14 @@
       <DependentUpon>Administrador2.cs</DependentUpon>
     </Compile>
     <Compile Include="busca1.cs" />
+    <Compile Include="caja1.cs" />
     <Compile Include="Cajero2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Cajero2.Designer.cs">
       <DependentUpon>Cajero2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Comprador1.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,6 +71,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Administrador2.resx">
       <DependentUpon>Administrador2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cajero2.resx">
+      <DependentUpon>Cajero2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
