@@ -479,6 +479,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.BackgroundImage = global::DanySoproyectoFinal.Properties.Resources.Captura_de_pantalla__34_;
             this.ClientSize = new System.Drawing.Size(858, 511);
             this.Controls.Add(this.textBox18);
             this.Controls.Add(this.button7);
