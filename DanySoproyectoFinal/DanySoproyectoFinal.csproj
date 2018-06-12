@@ -60,6 +60,7 @@
       <DependentUpon>Cajero2.cs</DependentUpon>
     </Compile>
     <Compile Include="Comprador1.cs" />
+    <Compile Include="cont.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
