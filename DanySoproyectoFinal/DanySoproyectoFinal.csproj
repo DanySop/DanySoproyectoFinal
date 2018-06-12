@@ -51,6 +51,7 @@
     <Compile Include="Administrador2.Designer.cs">
       <DependentUpon>Administrador2.cs</DependentUpon>
     </Compile>
+    <Compile Include="busca1.cs" />
     <Compile Include="Cajero2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,6 +64,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ingreso1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Administrador2.resx">
